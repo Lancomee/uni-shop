@@ -58,7 +58,6 @@
           // 商品最新的勾选状态
           goods_state: !this.goods.goods_state
         })
-
       },
       // numberBox组件的change事件处理函数
       numberChangeHandler(val){
